@@ -50,6 +50,7 @@ Nhờ vào sự phối hợp nhịp nhàng giữa các thành viên, chúng tôi
 Project Testing Guide là dự án hướng dẫn từng bước về cách hoàn thành và kiểm thử một dự án phần mềm cho các Tester. Mục tiêu của dự án này là cung cấp quy trình toàn diện và chi tiết từ giai đoạn phân tích yêu cầu đến giai đoạn kiểm thử và báo cáo kết quả.
 
 ✨ Các bước chính trong quy trình testing:
+
 📌 Phân tích yêu cầu: Hiểu rõ yêu cầu của dự án và tạo tài liệu kiểm thử phù hợp.
 
 📌 Lập kế hoạch kiểm thử: Xây dựng kế hoạch kiểm thử chi tiết với các trường hợp kiểm thử (test case) rõ ràng.
