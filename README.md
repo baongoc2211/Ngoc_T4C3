@@ -51,5 +51,3 @@ Project Testing Guide là dự án hướng dẫn từng bước về cách hoà
 📌 Báo cáo và theo dõi lỗi: Ghi lại các lỗi phát hiện và theo dõi tiến trình sửa lỗi trong suốt quá trình kiểm thử.
 Dự án này dành cho những người muốn tìm hiểu và thực hành quy trình kiểm thử phần mềm từ cơ bản đến nâng cao, giúp các tester mới làm quen hoặc những người đã có kinh nghiệm dễ dàng hơn trong việc tổ chức và thực hiện một quy trình kiểm thử hiệu quả.
 
-![Vintage Technology](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstockcake.com%2Fi%2Fvintage-technology-collection_1299349_854444&psig=AOvVaw3nKqva57O-OvMQKXH9U9K9&ust=1729656847479000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCRwYOQoYkDFQAAAAAdAAAAABAE)
-
