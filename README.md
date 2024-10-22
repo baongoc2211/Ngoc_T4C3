@@ -28,6 +28,7 @@ Dự án này không chỉ là nơi mình thực hành các kỹ năng đã họ
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 👥 #Giới thiệu Nhóm Dự Án:
+
 Nhóm của chúng tôi gồm 6 thành viên, với các vai trò và kỹ năng đa dạng, nhưng có một điểm chung quan trọng: tinh thần hợp tác. Mặc dù đây là lần đầu tiên chúng tôi làm việc chung, nhưng mọi người đều rất tích cực, nhiệt huyết và luôn sẵn sàng hỗ trợ lẫn nhau.
 
 🧑‍💼 Cấu trúc nhóm:
@@ -38,6 +39,7 @@ Developer Team: 4 thành viên là các lập trình viên tài năng.
 - Hồ Trần Anh Quang
 - Phan Phước Toàn
 - Lê Phan Hoàng Long
+  
 Nhờ vào sự phối hợp nhịp nhàng giữa các thành viên, chúng tôi đã cùng nhau vượt qua những thử thách ban đầu và đạt được sự tiến bộ đáng kể trong dự án. Chúng tôi luôn đặt tinh thần đội nhóm lên hàng đầu và không ngừng học hỏi từ nhau để phát triển.
 
 ✨ Tôi mong rằng đây chỉ là bước khởi đầu cho những lần hợp tác tiếp theo của chúng tôi, và chúng tôi sẽ còn cơ hội cùng nhau phát triển và hoàn thiện trong tương lai.
