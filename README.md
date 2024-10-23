@@ -1,7 +1,6 @@
 # CNPMNC
 # GV: Nguyễn Tấn Khoa
 #👩‍💻Phan Giang Bảo Ngọc's Project
-<!-- Bạn có thể chèn đường dẫn tới ảnh vintage phù hợp -->
 # 📊GitHub Stats :
   ![](https://github-readme-stats.vercel.app/api?username=baongoc2211&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=baongoc2211&theme=radical&hide_border=false)<br/>
@@ -25,7 +24,9 @@ Mình tự nhận mình vẫn đang ở mức cơ bản trong việc sử dụng
 
 🌟 Tầm nhìn
 Dự án này không chỉ là nơi mình thực hành các kỹ năng đã học, mà còn là nền tảng để mình tiếp tục nâng cao khả năng lập trình và đóng góp cho cộng đồng mã nguồn mở. Mình mong rằng những đóng góp này sẽ giúp ích cho mọi người và chính mình trong hành trình phát triển.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Project 
+♦️😶‍🌫️ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 👥 #Giới thiệu Nhóm Dự Án:
 
@@ -44,7 +45,7 @@ Nhờ vào sự phối hợp nhịp nhàng giữa các thành viên, chúng tôi
 
 ✨ Tôi mong rằng đây chỉ là bước khởi đầu cho những lần hợp tác tiếp theo của chúng tôi, và chúng tôi sẽ còn cơ hội cùng nhau phát triển và hoàn thiện trong tương lai.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-🧪 #Project Testing Guide:
+🧪Project Testing Guide:
 
 🌟 Giới thiệu
 Project Testing Guide là dự án hướng dẫn từng bước về cách hoàn thành và kiểm thử một dự án phần mềm cho các Tester. Mục tiêu của dự án này là cung cấp quy trình toàn diện và chi tiết từ giai đoạn phân tích yêu cầu đến giai đoạn kiểm thử và báo cáo kết quả.
