@@ -24,8 +24,11 @@ Nhóm của chúng tôi gồm 6 thành viên, với các vai trò và kỹ năng
 
 🧑‍💼 Cấu trúc nhóm:
 Leader: Anh Dương Duy Khiêm
+
 Scrum Master: Phan Giang Bảo Ngọc (tôi)
+
 Developer Team: 4 thành viên là các lập trình viên tài năng.
+
 - Võ Quốc Đẩu
 - Hồ Trần Anh Quang
 - Phan Phước Toàn
