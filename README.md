@@ -56,6 +56,7 @@ Project Testing Guide là dự án hướng dẫn từng bước về cách hoà
 📌 Báo cáo và theo dõi lỗi: Ghi lại các lỗi phát hiện và theo dõi tiến trình sửa lỗi trong suốt quá trình kiểm thử.
 
 Dự án này dành cho những người muốn tìm hiểu và thực hành quy trình kiểm thử phần mềm từ cơ bản đến nâng cao, giúp các tester mới làm quen hoặc những người đã có kinh nghiệm dễ dàng hơn trong việc tổ chức và thực hiện một quy trình kiểm thử hiệu quả.
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fphongvu.vn%2Fcong-nghe%2Fwindows-spotlight-la-gi-bo-suu-tap-anh-tuyet-dep-tu-microsoft%2F&psig=AOvVaw0CNIObM07Y695hg6CZY_oB&ust=1729936129402000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDHnbagqYkDFQAAAAAdAAAAABAE">
 
 
 <h1 align="center">Hi 👋, I'm Phan Giang Bao Ngoc</h1>
