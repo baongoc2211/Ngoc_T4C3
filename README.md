@@ -1,6 +1,5 @@
 # 📊GitHub Stats :
-  ![](https://github-readme-stats.vercel.app/api?username=baongoc2211&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=baongoc2211&theme=radical&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=baongoc2211&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=baongoc2211&theme=radical&hide_border=false)<br/>
 
 👋 Giới thiệu
 Chào mọi người! Tôi là Trần Bảo Ngọc, sinh năm 2004. Tôi đã có 2 năm kinh nghiệm làm việc tại trường với các dự án ứng dụng, chủ yếu sử dụng công cụ Visual Studio Code và ngôn ngữ Java. 
