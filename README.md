@@ -5,7 +5,9 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=baongoc2211&theme=radical&hide_border=false)<br/>
 
 👋 Giới thiệu
-Xin chào! Mình là Phan Giang Bảo Ngọc, sinh năm 2024. Mặc dù mình chưa có nhiều kinh nghiệm thực tế, nhưng mình đã có cơ hội làm việc với các dự án Android và web. Mình rất thích học hỏi và khám phá các công nghệ mới.
+Chào mọi người! Tôi là Trần Bảo Ngọc, sinh năm 2004. Tôi đã có 2 năm kinh nghiệm làm việc tại trường với các dự án ứng dụng, chủ yếu sử dụng công cụ Visual Studio Code và ngôn ngữ Java. 
+Hiện tại, tôi nhận thấy mình cần cải thiện kỹ năng trong lĩnh vực phát triển web và quy trình học các công nghệ mới. Tôi rất háo hức để khám phá và học hỏi thêm trong hành trình phát triển kỹ năng của mình.
+Cảm ơn bạn đã ghé thăm trang GitHub của tôi!
 🌱 Trình độ
 Mình tự nhận mình vẫn đang ở mức cơ bản trong việc sử dụng các công cụ và framework, nhưng luôn sẵn sàng học hỏi và cải thiện từng ngày.
 
