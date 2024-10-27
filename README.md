@@ -28,11 +28,6 @@ Ngoài ra tôi rất thích chụp lại những cảnh vật trong những sự
 <img src="https://github.com/user-attachments/assets/ecd40828-42df-4c6a-abb7-02e46ef7101c" alt="" width="300">
 <img src="https://github.com/user-attachments/assets/371e0587-6d2d-44c3-b901-ef2f263e213c" alt="" width="300">
 <img src="https://github.com/user-attachments/assets/a252b9da-24ef-4982-8380-0ff9d2fdc229" alt="" width="300">
-
-
-https://github.com/user-attachments/assets/98d0c860-c397-4641-a907-6a4c96abb828
-![z5973690642878_7a216778a8c6a88da135726ee3dd663f](https://github.com/user-attachments/assets/c3c9e6ae-0aeb-45f5-9e4e-445972aff1fe)
-![z5973690644633_f83f5f874618c5ff577eb59a8c0375d7](https://github.com/user-attachments/assets/ac9e729e-4f76-4982-af97-b1d9654f6360)
   
 # 🧪Project Testing Guide:
 
