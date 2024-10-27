@@ -18,7 +18,6 @@ Dự án này không chỉ là nơi mình thực hành các kỹ năng đã họ
 Ngoài ra tôi rất thích chụp lại những cảnh vật trong những sự kiện đi qua đời tôi, tôi xem nó như 
 <img src="https://github.com/user-attachments/assets/158b9249-2e41-4ed5-8ef3-3f9a73967342" alt="" width="300">
 <img src="https://github.com/user-attachments/assets/0f3cb768-b086-410a-88be-0b03aba17354" alt="" width="300">
-<img src="https://github.com/user-attachments/assets/8c0f6e86-136d-41fb-8c89-67a0da720e3e" alt="" width="300">
 <img src="https://github.com/user-attachments/assets/b9efa690-c08c-4876-951f-a8ed10b0ebb6" alt="" width="300">
 <img src="https://github.com/user-attachments/assets/d859ac9c-7870-4e6f-b43b-1dadaab6da3e" alt="" width="300">
 <img src="https://github.com/user-attachments/assets/158b9249-2e41-4ed5-8ef3-3f9a73967342" alt="" width="300">
