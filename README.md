@@ -12,12 +12,12 @@ Mình tự nhận mình vẫn đang ở mức cơ bản trong việc sử dụng
 Dự án này không chỉ là nơi mình thực hành các kỹ năng đã học, mà còn là nền tảng để mình tiếp tục nâng cao khả năng lập trình và đóng góp cho cộng đồng mã nguồn mở. Mình mong rằng những đóng góp này sẽ giúp ích cho mọi người và chính mình trong hành trình phát triển.
 
 # 🔧Languages and Tools
-
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white)
 
 # Sở thích:
 Ngoài ra tôi rất thích chụp lại những cảnh vật trong những sự kiện đi qua đời tôi, tôi xem nó như 
-![](https://github.com/user-attachments/assets/158b9249-2e41-4ed5-8ef3-3f9a73967342)
+<img src="[URL_ẢNH](https://github.com/user-attachments/assets/158b9249-2e41-4ed5-8ef3-3f9a73967342)" width="500" height="300">
+![]()
 
 ![](https://github.com/user-attachments/assets/0f3cb768-b086-410a-88be-0b03aba17354)
 ![](https://github.com/user-attachments/assets/8c0f6e86-136d-41fb-8c89-67a0da720e3e)
