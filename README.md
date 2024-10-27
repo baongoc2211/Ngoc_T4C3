@@ -17,17 +17,11 @@ Dự án này không chỉ là nơi mình thực hành các kỹ năng đã họ
 # Sở thích:
 Ngoài ra tôi rất thích chụp lại những cảnh vật trong những sự kiện đi qua đời tôi, tôi xem nó như 
 
-<img src="https://github.com/user-attachments/assets/158b9249-2e41-4ed5-8ef3-3f9a73967342" alt="" width="300">
-<img src="https://github.com/user-attachments/assets/0f3cb768-b086-410a-88be-0b03aba17354" alt="" width="300">
-<img src="https://github.com/user-attachments/assets/b9efa690-c08c-4876-951f-a8ed10b0ebb6" alt="" width="300">
-<img src="https://github.com/user-attachments/assets/d859ac9c-7870-4e6f-b43b-1dadaab6da3e" alt="" width="300">
-<img src="https://github.com/user-attachments/assets/69d6b1be-8ff4-4b7f-8b02-0b27f2a01d18" alt="" width="300">
-<img src="https://github.com/user-attachments/assets/9448d28e-117c-4a6c-b106-4dcff6361e90" alt="" width="300">
-<img src="https://github.com/user-attachments/assets/610b502f-437e-4228-a825-eb1df75e9802" alt="" width="300">
-<img src="https://github.com/user-attachments/assets/f583427a-7e41-4c4a-80cc-f1f40ac9775a" alt="" width="300">
-<img src="https://github.com/user-attachments/assets/ecd40828-42df-4c6a-abb7-02e46ef7101c" alt="" width="300">
-<img src="https://github.com/user-attachments/assets/371e0587-6d2d-44c3-b901-ef2f263e213c" alt="" width="300">
-<img src="https://github.com/user-attachments/assets/a252b9da-24ef-4982-8380-0ff9d2fdc229" alt="" width="300">
+<img src="https://github.com/user-attachments/assets/da472ff4-8d59-49a9-8e5e-50a5618f765c" alt="1" width="100">
+<img src="https://github.com/user-attachments/assets/b5c5bd28-82a6-495e-bc3c-83a727138f6f" alt="2" width="100">
+<img src="https://github.com/user-attachments/assets/0b372cd0-9438-4251-9371-89b44ce1678e" alt="3" width="100">
+<img src="https://github.com/user-attachments/assets/49f5ce9a-b905-4797-bef5-293714d484de" alt="4" width="100">
+<img src="" alt="" width="100">
   
 # 🧪Project Testing Guide:
 
