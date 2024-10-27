@@ -21,8 +21,6 @@ Ngoài ra tôi rất thích chụp lại những cảnh vật trong những sự
 <img src="https://github.com/user-attachments/assets/0f3cb768-b086-410a-88be-0b03aba17354" alt="" width="300">
 <img src="https://github.com/user-attachments/assets/b9efa690-c08c-4876-951f-a8ed10b0ebb6" alt="" width="300">
 <img src="https://github.com/user-attachments/assets/d859ac9c-7870-4e6f-b43b-1dadaab6da3e" alt="" width="300">
-<img src="https://github.com/user-attachments/assets/158b9249-2e41-4ed5-8ef3-3f9a73967342" alt="" width="300">
-<img src="https://github.com/user-attachments/assets/f18766d7-590c-4f8b-bf52-ed4c1e34d061" alt="" width="300">
 <img src="https://github.com/user-attachments/assets/69d6b1be-8ff4-4b7f-8b02-0b27f2a01d18" alt="" width="300">
 <img src="https://github.com/user-attachments/assets/9448d28e-117c-4a6c-b106-4dcff6361e90" alt="" width="300">
 <img src="https://github.com/user-attachments/assets/610b502f-437e-4228-a825-eb1df75e9802" alt="" width="300">
