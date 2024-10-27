@@ -18,10 +18,10 @@ Dự án này không chỉ là nơi mình thực hành các kỹ năng đã họ
 Ngoài ra tôi rất thích chụp lại những cảnh vật trong những sự kiện đi qua đời tôi, tôi xem nó như 
 
 <img src="https://github.com/user-attachments/assets/da472ff4-8d59-49a9-8e5e-50a5618f765c" alt="1" width="100">
-<img src="https://github.com/user-attachments/assets/b5c5bd28-82a6-495e-bc3c-83a727138f6f" alt="2" width="100">
-<img src="https://github.com/user-attachments/assets/0b372cd0-9438-4251-9371-89b44ce1678e" alt="3" width="100">
-<img src="https://github.com/user-attachments/assets/49f5ce9a-b905-4797-bef5-293714d484de" alt="4" width="100">
-<img src="" alt="" width="100">
+<img src="https://github.com/user-attachments/assets/b5c5bd28-82a6-495e-bc3c-83a727138f6f" alt="2" width="100" margin-left="15">
+<img src="https://github.com/user-attachments/assets/0b372cd0-9438-4251-9371-89b44ce1678e" alt="3" width="100"  margin-left="15">
+<img src="https://github.com/user-attachments/assets/49f5ce9a-b905-4797-bef5-293714d484de" alt="4" width="100" margin-left="15">
+
   
 # 🧪Project Testing Guide:
 
