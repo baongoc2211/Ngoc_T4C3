@@ -16,13 +16,16 @@ Dự án này không chỉ là nơi mình thực hành các kỹ năng đã họ
 
 # Sở thích:
 Ngoài ra tôi rất thích chụp lại những cảnh vật trong những sự kiện đi qua đời tôi, tôi xem nó như 
-<img src="[URL_ẢNH](https://github.com/user-attachments/assets/158b9249-2e41-4ed5-8ef3-3f9a73967342)" width="500" height="300">
+<img src="[URL_ẢNH](https://github.com/user-attachments/assets/158b9249-2e41-4ed5-8ef3-3f9a73967342)" alt="" width="300">
+<img src="[URL_ẢNH](https://github.com/user-attachments/assets/0f3cb768-b086-410a-88be-0b03aba17354)" alt="" width="300">
+<img src="[URL_ẢNH](https://github.com/user-attachments/assets/8c0f6e86-136d-41fb-8c89-67a0da720e3e)" alt="" width="300">
+<img src="[URL_ẢNH](https://github.com/user-attachments/assets/b9efa690-c08c-4876-951f-a8ed10b0ebb6)" alt="" width="300">
+<img src="[URL_ẢNH](https://github.com/user-attachments/assets/d859ac9c-7870-4e6f-b43b-1dadaab6da3e)" alt="" width="300">
+<img src="[URL_ẢNH](https://github.com/user-attachments/assets/158b9249-2e41-4ed5-8ef3-3f9a73967342)" alt="" width="300">
 ![]()
-
-![](https://github.com/user-attachments/assets/0f3cb768-b086-410a-88be-0b03aba17354)
-![](https://github.com/user-attachments/assets/8c0f6e86-136d-41fb-8c89-67a0da720e3e)
-![](https://github.com/user-attachments/assets/b9efa690-c08c-4876-951f-a8ed10b0ebb6)
-![](https://github.com/user-attachments/assets/d859ac9c-7870-4e6f-b43b-1dadaab6da3e)
+![]()
+![]()
+![]()
 ![](https://github.com/user-attachments/assets/a2f5144c-09d4-491e-a6db-ad0145fcba70)
 ![](https://github.com/user-attachments/assets/b9a871d4-0676-4c14-82bd-3142fbbfc513)
 ![](https://github.com/user-attachments/assets/f18766d7-590c-4f8b-bf52-ed4c1e34d061)
