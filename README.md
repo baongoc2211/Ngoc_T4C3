@@ -97,6 +97,6 @@ Dự án này dành cho những người muốn tìm hiểu và thực hành quy
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baongoc2211&" alt="baongoc2211" /></p>
 
-![Avata](https://www.google.com/url?sa=i&url=https%3A%2F%2Fphongvu.vn%2Fcong-nghe%2Fwindows-spotlight-la-gi-bo-suu-tap-anh-tuyet-dep-tu-microsoft%2F&psig=AOvVaw0s9It11nwPhSseJkiWMsVR&ust=1730133243750000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi8p-P-rokDFQAAAAAdAAAAABAE)
+![Avata]("D:\NamIII\DoAnPhanMem\images\QuanA\BBH_ChaTomCua.jpg")
 
 
