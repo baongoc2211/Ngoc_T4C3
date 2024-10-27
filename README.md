@@ -35,42 +35,6 @@ Project Testing Guide là dự án hướng dẫn từng bước về cách hoà
 📌 Báo cáo và theo dõi lỗi: Ghi lại các lỗi phát hiện và theo dõi tiến trình sửa lỗi trong suốt quá trình kiểm thử.
 
 Dự án này dành cho những người muốn tìm hiểu và thực hành quy trình kiểm thử phần mềm từ cơ bản đến nâng cao, giúp các tester mới làm quen hoặc những người đã có kinh nghiệm dễ dàng hơn trong việc tổ chức và thực hiện một quy trình kiểm thử hiệu quả.
-<a><img src=""><a/>
 
 
-<h1 align="center">Hi 👋, I'm Phan Giang Bao Ngoc</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baongoc2211&label=Profile%20views&color=0e75b6&style=flat" alt="baongoc2211" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baongoc2211" alt="baongoc2211" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Vs code**
-
-- 🌱 I’m currently learning **Nodejs, SSO, React, Java, Python**
-
-- 👯 I’m looking to collaborate on **MongoDB, hackoDB, hackerrank**
-
-- 💬 Ask me about **Java, nodejs**
-
-- 📫 How to reach me **hoavienchon@gmail.com**
-
-- 📄 Know about my experiences [I'm still self-studying and haven't done any internship yet](I'm still self-studying and haven't done any internship yet)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baongoc2211&show_icons=true&locale=en&layout=compact" alt="baongoc2211" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baongoc2211&show_icons=true&locale=en" alt="baongoc2211" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baongoc2211&" alt="baongoc2211" /></p>
-
-![Avata]("D:\NamIII\DoAnPhanMem\images\QuanA\BBH_ChaTomCua.jpg")
-<p align="left"> <img src="D:\NamIII\DoAnPhanMem\images\QuanA\BBH_ChaTomCua.jpg" alt="baongoc2211" /> </p>
 
