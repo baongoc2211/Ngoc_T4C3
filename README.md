@@ -15,7 +15,29 @@ Dự án này không chỉ là nơi mình thực hành các kỹ năng đã họ
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white)
 
+# Sở thích:
+Ngoài ra tôi rất thích chụp lại những cảnh vật trong những sự kiện đi qua đời tôi, tôi xem nó như 
+![](https://github.com/user-attachments/assets/158b9249-2e41-4ed5-8ef3-3f9a73967342)
 
+![](https://github.com/user-attachments/assets/0f3cb768-b086-410a-88be-0b03aba17354)
+![](https://github.com/user-attachments/assets/8c0f6e86-136d-41fb-8c89-67a0da720e3e)
+![](https://github.com/user-attachments/assets/b9efa690-c08c-4876-951f-a8ed10b0ebb6)
+![](https://github.com/user-attachments/assets/d859ac9c-7870-4e6f-b43b-1dadaab6da3e)
+![](https://github.com/user-attachments/assets/a2f5144c-09d4-491e-a6db-ad0145fcba70)
+![](https://github.com/user-attachments/assets/b9a871d4-0676-4c14-82bd-3142fbbfc513)
+![](https://github.com/user-attachments/assets/f18766d7-590c-4f8b-bf52-ed4c1e34d061)
+![](https://github.com/user-attachments/assets/69d6b1be-8ff4-4b7f-8b02-0b27f2a01d18)
+![](https://github.com/user-attachments/assets/9448d28e-117c-4a6c-b106-4dcff6361e90)
+
+![](https://github.com/user-attachments/assets/610b502f-437e-4228-a825-eb1df75e9802)
+![](https://github.com/user-attachments/assets/f583427a-7e41-4c4a-80cc-f1f40ac9775a)
+![](https://github.com/user-attachments/assets/ecd40828-42df-4c6a-abb7-02e46ef7101c)
+https://github.com/user-attachments/assets/a252b9da-24ef-4982-8380-0ff9d2fdc229
+![](https://github.com/user-attachments/assets/371e0587-6d2d-44c3-b901-ef2f263e213c)
+
+https://github.com/user-attachments/assets/98d0c860-c397-4641-a907-6a4c96abb828
+![z5973690642878_7a216778a8c6a88da135726ee3dd663f](https://github.com/user-attachments/assets/c3c9e6ae-0aeb-45f5-9e4e-445972aff1fe)
+![z5973690644633_f83f5f874618c5ff577eb59a8c0375d7](https://github.com/user-attachments/assets/ac9e729e-4f76-4982-af97-b1d9654f6360)
   
 # 🧪Project Testing Guide:
 
