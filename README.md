@@ -14,12 +14,13 @@ Dự án này không chỉ là nơi mình thực hành các kỹ năng đã họ
 # 🔧Languages and Tools
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white)
 
-# Sở thích:
-Ngoài ra tôi rất thích chụp lại những cảnh vật trong những sự kiện đi qua đời tôi, tôi xem nó như 
+# Sở thích
+Ngoài việc lập trình, tôi rất thích nhiếp ảnh và thường xuyên chụp lại những cảnh đẹp và khoảnh khắc đáng nhớ trong cuộc sống. Nhiếp ảnh không chỉ giúp tôi lưu giữ ký ức mà còn là cách để tôi thể hiện cảm nhận riêng của mình về thế giới xung quanh. 
 
-<img src="https://github.com/user-attachments/assets/da472ff4-8d59-49a9-8e5e-50a5618f765c" alt="1" width="100">
-<img src="https://github.com/user-attachments/assets/b5c5bd28-82a6-495e-bc3c-83a727138f6f" alt="2" width="100" margin-left="50">
-<img src="https://github.com/user-attachments/assets/0b372cd0-9438-4251-9371-89b44ce1678e" alt="3" width="100"  margin-left="50">
+<img src="https://github.com/user-attachments/assets/da472ff4-8d59-49a9-8e5e-50a5618f765c" alt="Ảnh 1" width="100">
+<img src="https://github.com/user-attachments/assets/b5c5bd28-82a6-495e-bc3c-83a727138f6f" alt="Ảnh 2" width="100">
+<img src="https://github.com/user-attachments/assets/0b372cd0-9438-4251-9371-89b44ce1678e" alt="Ảnh 3" width="100">
+
 
   
 # 🧪Project Testing Guide:
