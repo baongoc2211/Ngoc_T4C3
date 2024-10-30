@@ -2,7 +2,7 @@
   ![](https://github-readme-stats.vercel.app/api?username=baongoc2211&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=baongoc2211&theme=radical&hide_border=false)<br/>
 
 👋 Giới thiệu
-Chào mọi người! Tôi là Trần Bảo Ngọc, sinh năm 2004. Tôi đã có 2 năm kinh nghiệm làm việc tại trường với các dự án ứng dụng, chủ yếu sử dụng công cụ Visual Studio Code và ngôn ngữ Java. 
+Chào mọi người! Tôi là Phan Giang Bảo Ngọc, sinh năm 2004. Tôi đã có 2 năm kinh nghiệm làm việc tại trường với các dự án ứng dụng, chủ yếu sử dụng công cụ Visual Studio Code và ngôn ngữ Java. 
 Hiện tại, tôi nhận thấy mình cần cải thiện kỹ năng trong lĩnh vực phát triển web và quy trình học các công nghệ mới. Tôi rất háo hức để khám phá và học hỏi thêm trong hành trình phát triển kỹ năng của mình.
 Cảm ơn bạn đã ghé thăm trang GitHub của tôi!
 🌱 Trình độ
