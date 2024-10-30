@@ -17,9 +17,10 @@ Dự án này không chỉ là nơi mình thực hành các kỹ năng đã họ
 # Sở thích
 Ngoài việc lập trình, tôi rất thích nhiếp ảnh và thường xuyên chụp lại những cảnh đẹp và khoảnh khắc đáng nhớ trong cuộc sống. Nhiếp ảnh không chỉ giúp tôi lưu giữ ký ức mà còn là cách để tôi thể hiện cảm nhận riêng của mình về thế giới xung quanh. 
 
-<img src="https://github.com/user-attachments/assets/da472ff4-8d59-49a9-8e5e-50a5618f765c" alt="Ảnh 1" width="100">
-<img src="https://github.com/user-attachments/assets/b5c5bd28-82a6-495e-bc3c-83a727138f6f" alt="Ảnh 2" width="100">
-<img src="https://github.com/user-attachments/assets/0b372cd0-9438-4251-9371-89b44ce1678e" alt="Ảnh 3" width="100">
+<img src="https://github.com/user-attachments/assets/da472ff4-8d59-49a9-8e5e-50a5618f765c" alt="Ảnh 1" width="100" style="border: 2px solid black;">
+<img src="https://github.com/user-attachments/assets/b5c5bd28-82a6-495e-bc3c-83a727138f6f" alt="Ảnh 2" width="100" style="border: 2px solid black;">
+<img src="https://github.com/user-attachments/assets/0b372cd0-9438-4251-9371-89b44ce1678e" alt="Ảnh 3" width="100" style="border: 2px solid black;">
+
 
 
   
